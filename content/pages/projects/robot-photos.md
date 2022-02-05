@@ -24,20 +24,153 @@ uid: 0ed644b1-5409-2fa4-e5ba-7c083a9717c6
 Papers
 ------
 
-| teamS | final papers |
-| --- | --- |
-| Team 01 | ([PDF]({{< baseurl >}}/resources/teamonepaper)) |
-| Team 02 | ([PDF]({{< baseurl >}}/resources/teamtwopaper)) |
-| Team 03 | ([PDF]({{< baseurl >}}/resources/teamthreepaper)) |
-| Team 04 | ([PDF]({{< baseurl >}}/resources/teamfourpaper)) |
-| Team 05 | ([PDF]({{< baseurl >}}/resources/teamfivepaper)) |
-| Team 06 | ([PDF]({{< baseurl >}}/resources/teamsixpaper)) |
-| Team 07 | ([PDF]({{< baseurl >}}/resources/teamsevenpaper)) |
-| Team 08 | ([PDF]({{< baseurl >}}/resources/teameightpaper)) |
-| Team 09 | ([PDF]({{< baseurl >}}/resources/teamninepaper)) |
-| Team 10 | ([PDF]({{< baseurl >}}/resources/teamtenpaper)) |
-| Team 11 | ([PDF]({{< baseurl >}}/resources/teamelevenpaper)) |
-| Team 12 | ([PDF]({{< baseurl >}}/resources/teamtwelvepaper)) |
-| Team 13 | ([PDF]({{< baseurl >}}/resources/teamthirteenpapr)) |
-| Team 14 | ([PDF]({{< baseurl >}}/resources/teamfourteenpapr)) |
-| Team 15 | ([PDF]({{< baseurl >}}/resources/teamfifteenpaper))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+teamS
+{{< thclose >}}
+{{< thopen >}}
+final papers
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team 01
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/teamonepaper))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team 02
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/teamtwopaper))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team 03
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/teamthreepaper))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team 04
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/teamfourpaper))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team 05
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/teamfivepaper))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team 06
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/teamsixpaper))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team 07
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/teamsevenpaper))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team 08
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/teameightpaper))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team 09
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/teamninepaper))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team 10
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/teamtenpaper))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team 11
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/teamelevenpaper))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team 12
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/teamtwelvepaper))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team 13
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/teamthirteenpapr))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team 14
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/teamfourteenpapr))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Team 15
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/teamfifteenpaper))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
