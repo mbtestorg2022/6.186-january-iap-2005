@@ -9,6 +9,7 @@ description: 'This supplementary ZIP file contains: 3 .a files, 2 .pdf files, 18
   and 2 .xsl files.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/7aba26ceeff0ca86b0dce5e88fefa38f_firmware.zip
 file_type: application/zip
+parent_uid: df8d5ade-86fe-8828-7465-ec98c13bba1c
 resourcetype: Other
 title: firmware.zip
 uid: 7aba26ce-eff0-ca86-b0dc-e5e88fefa38f

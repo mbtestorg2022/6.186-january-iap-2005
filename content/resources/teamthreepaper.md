@@ -16,6 +16,7 @@ description: 'This resource includes topics like: planning and strategery, mecha
   lessons learned.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/779f7b03e90c88f887912367711b097c_teamthreepaper.pdf
 file_type: application/pdf
+parent_uid: 7d323111-f06a-c924-e3bc-43855e549030
 resourcetype: Document
 title: teamthreepaper.pdf
 uid: 779f7b03-e90c-88f8-8791-2367711b097c

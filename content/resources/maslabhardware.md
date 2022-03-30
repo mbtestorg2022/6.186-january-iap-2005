@@ -8,6 +8,7 @@ description: 'This ZIP file contains: 3 .a files, 2 .pdf files, 180 .asm files, 
   .txt files, 5 .tpl files, 3 .zip files, 3 .wnp files, 7 .xml files, and 2 .xsl files.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/1d0b4f7f7c2e9a99b0fe924ab0ac3e2c_maslabhardware.zip
 file_type: application/zip
+parent_uid: df8d5ade-86fe-8828-7465-ec98c13bba1c
 resourcetype: Other
 title: maslabhardware.zip
 uid: 1d0b4f7f-7c2e-9a99-b0fe-924ab0ac3e2c

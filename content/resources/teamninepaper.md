@@ -4,6 +4,7 @@ description: 'This resource includes topics like: introduction, overall startegy
   mechanical design, software architecture, vision software, conclusion, and suggestion.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-186-mobile-autonomous-systems-laboratory-january-iap-2005/28c0558275f4a0e7a880597a9d246104_teamninepaper.pdf
 file_type: application/pdf
+parent_uid: 7d323111-f06a-c924-e3bc-43855e549030
 resourcetype: Document
 title: teamninepaper.pdf
 uid: 28c05582-75f4-a0e7-a880-597a9d246104
